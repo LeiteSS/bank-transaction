@@ -1,0 +1,16 @@
+/home/ssl/workspace/DotnetProjects/bank/bin/Debug/net5.0/bank
+/home/ssl/workspace/DotnetProjects/bank/bin/Debug/net5.0/bank.deps.json
+/home/ssl/workspace/DotnetProjects/bank/bin/Debug/net5.0/bank.runtimeconfig.json
+/home/ssl/workspace/DotnetProjects/bank/bin/Debug/net5.0/bank.runtimeconfig.dev.json
+/home/ssl/workspace/DotnetProjects/bank/bin/Debug/net5.0/bank.dll
+/home/ssl/workspace/DotnetProjects/bank/bin/Debug/net5.0/ref/bank.dll
+/home/ssl/workspace/DotnetProjects/bank/bin/Debug/net5.0/bank.pdb
+/home/ssl/workspace/DotnetProjects/bank/obj/Debug/net5.0/bank.csproj.AssemblyReference.cache
+/home/ssl/workspace/DotnetProjects/bank/obj/Debug/net5.0/bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/ssl/workspace/DotnetProjects/bank/obj/Debug/net5.0/bank.AssemblyInfoInputs.cache
+/home/ssl/workspace/DotnetProjects/bank/obj/Debug/net5.0/bank.AssemblyInfo.cs
+/home/ssl/workspace/DotnetProjects/bank/obj/Debug/net5.0/bank.csproj.CoreCompileInputs.cache
+/home/ssl/workspace/DotnetProjects/bank/obj/Debug/net5.0/bank.dll
+/home/ssl/workspace/DotnetProjects/bank/obj/Debug/net5.0/ref/bank.dll
+/home/ssl/workspace/DotnetProjects/bank/obj/Debug/net5.0/bank.pdb
+/home/ssl/workspace/DotnetProjects/bank/obj/Debug/net5.0/bank.genruntimeconfig.cache
